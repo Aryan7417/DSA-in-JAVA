@@ -59,41 +59,83 @@
 //     }
 // }
 
-import java.util.Scanner;
+//----------------------------------------------------------------------------------------------------------------------
 
-public class functionANDmenthod {
+// import java.util.Scanner;
+
+// public class functionANDmenthod {
 
 
-    public static void fcatorial(int a){
-        int fact = 1;
+//     public static void fcatorial(int a){
+//         int fact = 1;
 
-        if(a<0){
-            System.out.println("invalid number");
-            return;
-        }
-        for(int i = a;i>=1;i--){
+//         if(a<0){
+//             System.out.println("invalid number");
+//             return;
+//         }
+//         for(int i = a;i>=1;i--){
 
-            fact = fact*i;
+//             fact = fact*i;
 
-        }
-        System.out.println(fact);
-        return;
-    }
+//         }
+//         System.out.println(fact);
+//         return;
+//     }
 
     
     
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+//         int a = sc.nextInt();
 
-         fcatorial(a);
-        // System.out.println(fact);
-
-
-
+//          fcatorial(a);
+//         // System.out.println(fact);
         
-    }
-}
+//     }
+// }
+
+//----------------------------------------------------------------------------------------------------------------
+
+// import java.util.Scanner;
+
+// public class functionANDmenthod {
+    
+
+//     public static int prime(int a) {
+
+//         if(a%2==0){
+//             System.out.println("^^^numberis even^^^");
+//         }
+//         else{
+//             System.out.println("Numbert si odd");
+//         }
+        
+
+//         return a;    
+        
+//     }
+    
+//     public static void main(String[] args) {
+//         Scanner  sc = new Scanner(System.in);
+//         int pon = sc.nextInt();
+//         prime(pon);        
+//     }
+
+    
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
