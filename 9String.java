@@ -1,8 +1,8 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class String9 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+// public class String9 {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
         //-----------------------------------------------------------------
         // System.out.print("Enter your name ");
         // String name = "Aryan  YADAV";
@@ -40,9 +40,9 @@ public class String9 {
         // }
 
         //-------------------------------------------------------------------
-        String sen= "ARyan";
-        String name= sen.substring(4);
-        System.out.println(name);
+        // String sen= "ARyan";
+        // String name= sen.substring(4);
+        // System.out.println(name);
         
 
 
@@ -54,6 +54,6 @@ public class String9 {
 
 
 
-    }
+//     }
     
-}
+// }
