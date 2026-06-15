@@ -1,5 +1,5 @@
-public class Stringbuilder {
-    public static void main(String[] args) {
+// public class Stringbuilder {
+//     public static void main(String[] args) {
         
         // StringBuilder ab = new StringBuilder("H");
         
@@ -32,23 +32,23 @@ public class Stringbuilder {
 //-----------------------------------------------------------------------------------------------------------------------------------------
 
 
-StringBuilder A = new StringBuilder("hello");
+// StringBuilder A = new StringBuilder("hello");
 
-for(int i =0 ;i<A.length()/2;i++){
-    int start = i ;
-    int end =  A.length()-1-i;
+// for(int i =0 ;i<A.length()/2;i++){
+//     int start = i ;
+//     int end =  A.length()-1-i;
 
-    char frontChar = A.charAt(start);
-    char backeChat = A.charAt(end);
-    A.setCharAt(start,backeChat);
-    A.setCharAt(end,frontChar);
+//     char frontChar = A.charAt(start);
+//     char backeChat = A.charAt(end);
+//     A.setCharAt(start,backeChat);
+//     A.setCharAt(end,frontChar);
 
-}
-System.out.print(A);
+// }
+// System.out.print(A);
  
 
 
 
-}
+// }
     
-}
+// }
