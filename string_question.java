@@ -23,10 +23,10 @@ public class string_question {
 
         // ---------------------------------------------------------------
 
-        String myString = "this String conta    three sspace  many space ";
-        System.out.println(myString.indexOf("  "));
+        // String myString = "this String conta    three sspace  many space ";
+        // System.out.println(myString.indexOf("  "));
 
-        System.out.println(myString.indexOf(""));
+        // System.out.println(myString.indexOf(""));
 
 
 
